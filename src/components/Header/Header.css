@@ -1,0 +1,22 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.header a{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    margin-left: 36px;
+}
+.header a:hover{
+    color: salmon;
+    /* background-color: rgb(72, 14, 119);
+    border: 2px solid red; */
+}
